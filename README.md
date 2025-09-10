@@ -1,5 +1,5 @@
-# eMajelis 🕌
-### Religious Gathering Management System
+# Majelis 🕌
+### Religious Gathering Management System - ALBALADUL-AMIN
 
 ![eMajelis](https://img.shields.io/badge/eMajelis-v2.0-blue.svg)
 ![PHP](https://img.shields.io/badge/PHP-7.4+-blue.svg)
